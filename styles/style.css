@@ -10,13 +10,13 @@ body {
   font-family: 'Inter', sans-serif;
 }
 .hero{
-    height: 100vh;
-    background-image: url("img/Hero-bg.png") no-repeat center center;
-  background-size: cover;
-  padding: 30px 60px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+ height: 100vh;
+ background: url("../img/Hero-bg.png") no-repeat center center;
+background-size: cover;
+padding: 30px 60px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
 }
 .nav {
   display: flex;
